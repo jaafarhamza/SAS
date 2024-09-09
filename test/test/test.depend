@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # depslib dependency file v1.0
 1725636644 source:c:\users\youcode\desktop\sas\test\main.c
 	<stdio.h>
 	<stdlib.h>
 
+=======
+# depslib dependency file v1.0
+1725636644 source:c:\users\youcode\desktop\sas\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+>>>>>>> b1c4f16f2b8f981043323d58a2823ca80f503d83
