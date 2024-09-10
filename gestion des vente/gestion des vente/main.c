@@ -5,7 +5,7 @@
 int main()
 {
     int nbr_produit , total_des_vente , i ;
-    float montant_des_vente[i] ;
+    float montant_des_vente[nbr_produit] ;
 
     printf("entre les nombre des produit vendus dans la journee:");
     scanf("%d",&nbr_produit);

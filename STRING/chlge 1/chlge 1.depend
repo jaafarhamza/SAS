@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725958297 source:c:\users\youcode\desktop\string\chlge 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
